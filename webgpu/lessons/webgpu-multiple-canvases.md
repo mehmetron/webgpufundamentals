@@ -595,4 +595,4 @@ hopefully be much lighter.
 
 `IntersectionObserver` will probably not cover every case. If you are drawing very heavy
 things in each canvas then you might want to only animate canvases the user selects.
-In any case, hopefully you have on more tool in your toolbox.
+In any case, hopefully you have one more tool in your toolbox.
